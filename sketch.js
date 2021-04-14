@@ -1,13 +1,13 @@
 var Tom, Jerry,t1,j1,back,b1,t2,j2,t3,j3
 function preload() {
     //load the images here
-    b1=loadAnimation("images/garden.png")
-    t1=loadAnimation("images/cat1.png")
-    j1=loadAnimation("images/mouse1.png")
-    j2=loadAnimation("images/mouse2.png","images/mouse3.png")
-    t2=loadAnimation("images/cat3.png","images/cat2.png")
-    t3=loadAnimation("images/cat4.png")
-    j3=loadAnimation("images/mouse4.png")
+    b1=loadAnimation("garden.png")
+    t1=loadAnimation("cat1.png")
+    j1=loadAnimation("mouse1.png")
+    j2=loadAnimation("mouse2.png","mouse3.png")
+    t2=loadAnimation("cat3.png","cat2.png")
+    t3=loadAnimation("cat4.png")
+    j3=loadAnimation("mouse4.png")
 
 }
 
